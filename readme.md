@@ -1,0 +1,3 @@
+# Git course
+
+Kogda zhe ty zarabotaesh.....
